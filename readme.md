@@ -1,5 +1,4 @@
-#Agroselling
+# Agroselling Categories
 
-Categories
 1. Семена
 2. Агрохимия
